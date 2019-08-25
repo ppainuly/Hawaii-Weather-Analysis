@@ -28,6 +28,5 @@ We need to ask ourself if information from rainfall for each month is a good ind
 
 ![56% of the observations had less than 0.5](Images/Total_precp_obs.png)
 
-![Precipitation from August 2016 to August 2017](Images/Precipitation_last_12_months.png)
 
 
