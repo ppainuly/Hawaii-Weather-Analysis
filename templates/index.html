@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+        <title>Hawaii Weather API</title>
+
+    </head>
+  </head>
+  <div class="container">
+      <body>
+          <h1><strong>Honolulu, Hawaii Weather Data</strong></h1>
+          <p>Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! Use the following API guidelines to access the appropriate data.
+          </p>
+          <p>P.S Have a great trip.</p>
+          <h2>API Documentation</h2>
+          <p>Use the URL below along with <code>http://localhost:5009</code> to get the appropriate dataset. The Response generates is a JSON format.</p>            
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Route</th>
+        <th>URL</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Precipitation</td>
+        <td>/api/v1.0/precipitation</td>
+        <td>Returns Precipitation Value for last 12 months grouped by date.<br>To get the Precipitation data, use the below url - <br><a href="http://localhost:5009/api/v1.0/precipitation">/api/v1.0/precipitation</a></td>
+      </tr>
+      <tr>
+        <td>Stations</td>
+        <td>/api/v1.0/stations</td>
+        <td>Returns a JSON list of stations from the dataset.<br>To get the Stations data, use the below url - <br><a href="http://localhost:5009/api/v1.0/stations">/api/v1.0/stations</a></td>
+      </tr>
+      <tr>
+        <td>Temperature</td>
+        <td>/api/v1.0/tobs</td>
+        <td>Query for the dates and temperature observations from a year from the last data point.
+            Returns a JSON list of Temperature Observations (tobs) for the previous year.
+          <br>To get the Temperature data, use the below url - <br><a href="http://localhost:5009/api/v1.0/tobs">/api/v1.0/tobs</a></td>
+      </tr>
+      <tr>
+          <td>Temperature Calculations</td>
+          <td>/api/v1.0/Start Date<br>/api/v1.0/Start Date/End Date</td>
+          <td>Return a JSON list of the minimum temperature, the average temperature, and the max temperature for a given start or start-end range.
+            The date should be in <em>Year-Month-Day (YYYY-MM-DD) format.</em><br>
+            <br><mark>/api/v1.0/Start Date</mark><br>
+              When given the start only, calculate TMIN, TAVG, and TMAX for all dates greater than and equal to the start date.<br>For Example - <br>
+              <strong><a href="http://localhost:5009/api/v1.0/2016-12-25">/api/v1.0/2016-12-25</a></strong><br>Returns the temperature min,ave and max for the time period greater than, or equal to 2016-12-25.<br>
+              <br><mark>/api/v1.0/Start Date/End Date</mark><br>
+              When given the start and the end date, calculate the TMIN, TAVG, and TMAX for dates between the start and end date inclusive.<br>For Example - <br>
+              
+              <strong>
+                <a href="http://localhost:5009/api/v1.0/2016-12-25/2016-12-30">/api/v1.0/2016-12-25/2016-12-30</a></strong><br>Returns the temperature min,ave and max for the time period between 2016-12-25 and 2016-12-30, including the two dates.<br>
+              
+        </tr>
+        <tr>
+    </tbody>
+  </table>
+      
+      
+        </body>
+
+  </div>
+
+</html>
