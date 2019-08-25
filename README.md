@@ -16,6 +16,12 @@ Hawaii has a tropical climate with average summer temperate at 88F and winter te
 
 Different locations of Hawaii(each station recorded its own dataset) varied largely in precipitation which ranged from 4 inches to 147 inches per year. From high slopes, mountaneous region to low lying islands, there is a drastic variability in geography. Add to that, this data records rainfall between August 2016-August 2017. Its important to note that 2016-17 were La Niña years. La Niña, a phenomenon in the Pacific that causes colder ocean temperatures and lasts about a year and a half and occurs during late fall into early winter. This phenomenon cause variability in rainfall that different regions of Hawaii recieve per year. Depending on which are you are visiting, you can expect to experience heavy showers if you go outdoors towards the slopes or somewhere close to Honolulu Observatory.
 
+## What about the months for rainfall? 
+
+### September, October, February, April, and July have the most rainfall with higher peaks(precipitation > 3.5 inches). June the driest month.
+
+![Precipitation from August 2016 to August 2017](Images/Precipitation_last_12_months.png)
+
 
 
 
