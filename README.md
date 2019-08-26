@@ -34,7 +34,9 @@ We need to ask ourselves if information from rainfall for each month is a good i
 
 ![Precipitation Stats](Images/stats.png)
 
-### Thats good, but what about the temperature? 
+## Thats good, but what about the temperature? 
+
+### Moderate throught the year - 
 
 Hawaii, being a tropical region enjoys a moderate, consistant temperature all year long. There are two seasons -  Summer from May – October and Winter which really should be reffered as "Cool" Summer for the rest of the year. Taking a subset of our dataset, lets look at the station with the most recorded temperature data points so get an estimate of the region.
 
