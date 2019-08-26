@@ -40,7 +40,7 @@ Hawaii, being a tropical region enjoys a moderate, consistant temperature all ye
 
 ![Temperature Histogram](Images/TemperatureHistogram.png)
 
-
+The result is skewed towards the right which tells us that most of the temeprature values range from 65-80F confirming the consistant moderate temperature in the island all year long. For the 12 month period, the highest temperature was 85°F with a minimum of 54°F. Keep in mind that this dataset was around La Niña, which causes the temperature to fall and during El Niño cycle(reverse of La Niña i.e raises the temperature, causes rainstorms), the temperature is bound to raise by a few degrees. But not enough to make it unpleasant. 
 
 
 
