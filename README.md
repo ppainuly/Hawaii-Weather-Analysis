@@ -50,13 +50,13 @@ The result is skewed towards the right which tells us that most of the temepratu
 So by now you know what to expect, but still havnt fully decided on the dates. Lets take a look at three popular vacation dates from different months and see how the temperature fares. We will use [LA Times Holiday Period](https://www.latimes.com/travel/deals/la-tr-holiday-travel-20170622-htmlstory.html) to analyze the following three vacation week periods - 
 
 * 4th of July entire week
-![Temperature July 4th](Images/DateNormals2017-07-03_2017-07-09.png)
+
 
 * Thanksgiving week
-![Temperature Thanksgiving](Images/DateNormals2016-11-19_2016-11-25.png)
+
 
 * Christmas Week (12/24-12/30)
-![Temperature Thanksgiving](Images/DateNormals2016-12-24_2016-12-30.png)
+
 
 
 
