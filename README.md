@@ -71,5 +71,8 @@ The maximum temperature is around 80°F and average temperature for the three di
 | ------------- |:-------------:| 
 | ![Temp Normal](Images/AveTempTripDec.png)     | ![Temp Normal](Images/AveTempTripJune.png)    |
 
+Since the two datasets refer to the same entity, i.e they are both paired to Hawaii's temperature at different times, we want to perform a paired t-test to see if they both are significant.Performing a Paired Significance t-test onto the two datasets(Temperature-June and Temperature-December) we get a p-vaue = 0.057, hence we accept the significance between the two datasets. 
 
+### What does that mean?
 
+It means that the correlation betwenn the two temperatures in June and December is not by chance. There is not much variability between temperature values of Hawaii which confirms its consistant moderate nature.
