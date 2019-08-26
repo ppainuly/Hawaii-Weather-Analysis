@@ -24,9 +24,13 @@ Different locations of Hawaii(each station recorded its own dataset) varied larg
 
 Hawaii's rainy season ranges from September to May, though there isnt a "conventional rainy season" because the island gets burst of rainfall over the year period. the maximum rainfall over the time period of the dataset was on 14th September 2016, though the month of september was one of the wettest with most number of days having rainfall over 2 inches. 
 
-We need to ask ourself if information from rainfall for each month is a good indicator if your trip is going to suffer. Lets take a look at how many fluctuations we have for the precipitation data. 
+### So is it that when its good, its really good and when its bad, its really bad?
+
+We need to ask ourselves if information from rainfall for each month is a good indicator if your trip is going to suffer. Lets take a look at how many fluctuations we have for the precipitation data. 
 
 ![56% of the observations had less than 0.5](Total_precp_obs.png)
+
+
 
 
 
