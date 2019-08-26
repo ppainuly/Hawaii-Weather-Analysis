@@ -24,11 +24,13 @@ Different locations of Hawaii(each station recorded its own dataset) varied larg
 
 Hawaii's rainy season ranges from September to May, though there isnt a "conventional rainy season" because the island gets burst of rainfall over the year period. the maximum rainfall over the time period of the dataset was on 14th September 2016, though the month of september was one of the wettest with most number of days having rainfall over 2 inches. 
 
-### So is it that when its good, its really good and when its bad, its really bad?
+### So does that mean that when its good, its really good and when its bad, its really bad?
 
 We need to ask ourselves if information from rainfall for each month is a good indicator if your trip is going to suffer. Lets take a look at how many fluctuations we have for the precipitation data. 
 
 ![56% of the observations had less than 0.5](Total_precp_obs.png)
+
+56% of all the recorded precipitation observations are between 0.05 and 0.00 inches of rain. Out of the rest, 30 percent are approx. 0 inches. That means that over the time period of 12 months, there have been several short outbursts with heavy downpour which cause the volume of total rain per year to go up. This would suggest, that no matter what time you go, you might experience rainfall in some capacity for a short time, and for certain days, a heavy downpour for a short time span too. The variance in geography and large size makes the data on the upper end of rainfall average but that is because of limited high volume rainfall periods. Over last year, there were 2021 precipitation values captured, which means about 5 different precipitation values per day on average. Looking below at the statistics of precipitation data, the mean value is 0.17 inches but its interesting to note that the 75th percentile value is still 0.13. That means most of the days with pleasant precipitation and few ocassions with large downpour. Considering that its the tropics, it rains in some area daily and is cloudy towards the mountains, but fear not because the "bothersome" precipitation values are marginal and you are bound to enjoy sunshine, aside for a short heavy rainfall, if any.
 
 
 
