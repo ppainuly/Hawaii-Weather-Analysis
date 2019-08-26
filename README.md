@@ -67,7 +67,9 @@ The maximum temperature is around 80°F and average temperature for the three di
 
 ### How does the driest month(June) and Wettest Month(December) match with temperature? Is there consistency for the two datasets?
 
-
+| December        | June          | 
+| ------------- |:-------------:| 
+| ![Temp Normal](Images/AveTempTripDec.png)     | ![Temp Normal](Images/AveTempTripJune.png)    |
 
 
 
