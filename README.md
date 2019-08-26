@@ -10,7 +10,7 @@ Now that I have your attention, let me calm things down. Dont worry, Hawaii is N
 
 ### Dont be surprised with rainfall variability - 
 
-Hawaii has a tropical climate with average summer temperate at 88F and winter temperature around at 76F. Being close to the tropics, Hawaii gets a large total volume of rainfall per year but because of its equatorial nature and size, at a certain time, you may face pleasant moderating surfing weather or heavy rain storms straight out of Blade Runner. 
+Hawaii has a tropical climate with average summer temperate at 88°F and winter temperature around at 76°F. Being close to the tropics, Hawaii gets a large total volume of rainfall per year but because of its equatorial nature and size, at a certain time, you may face pleasant moderating surfing weather or heavy rain storms straight out of Blade Runner. 
 
 ![Amount of rainfall varies drastically for different regions of Honolulu](Total_rainfall_per_station.png)
 
@@ -42,7 +42,7 @@ Hawaii, being a tropical region enjoys a moderate, consistant temperature all ye
 
 ![Temperature Histogram](Images/TemperatureHistogram.png)
 
-The result is skewed towards the right which tells us that most of the temeprature values range from 65-80F confirming the consistant moderate temperature in the island all year long. For the 12 month period, the highest temperature was 85°F with a minimum of 54°F. Keep in mind that this dataset was around La Niña, which causes the temperature to fall and during El Niño cycle(reverse of La Niña i.e raises the temperature, causes rainstorms), the temperature is bound to raise by a few degrees. But not enough to make it unpleasant. 
+The result is skewed towards the right which tells us that most of the temeprature values range from 65-80°F confirming the consistant moderate temperature in the island all year long. For the 12 month period, the highest temperature was 85°F with a minimum of 54°F. Keep in mind that this dataset was around La Niña, which causes the temperature to fall and during El Niño cycle(reverse of La Niña i.e raises the temperature, causes rainstorms), the temperature is bound to raise by a few degrees. But not enough to make it unpleasant. 
 
 
 ### Three popular vacation periods, how does the temperature differ?
@@ -63,6 +63,7 @@ So by now you know what to expect, but still havnt fully decided on the dates. L
 
 ![Temp Normal](Images/DateNormals2016-12-24_2016-12-30.png)
 
+The maximum temperature is around 80°F and average temperature for the three different periods is around early to mid 70's. minimum temperature range for Christmas and Thanksgiving is expectedly lower. But we have to keep in mind that November and December get a lot more rainfall which may cause the temperature at night to fall. It's worth looking at the ticket prices/hotel prices for the three periods to see which one is more popular, but overall, the temperature factor shows consistency. 
 
 
 
