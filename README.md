@@ -65,5 +65,9 @@ So by now you know what to expect, but still havnt fully decided on the dates. L
 
 The maximum temperature is around 80°F and average temperature for the three different periods is around early to mid 70's. minimum temperature range for Christmas and Thanksgiving is expectedly lower. But we have to keep in mind that November and December get a lot more rainfall which may cause the temperature at night to fall. It's worth looking at the ticket prices/hotel prices for the three periods to see which one is more popular, but overall, the temperature factor shows consistency. 
 
+### How does the driest month(June) and Wettest Month(December) match with temperature? Is there consistency for the two datasets?
+
+
+
 
 
