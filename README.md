@@ -45,6 +45,12 @@ Hawaii, being a tropical region enjoys a moderate, consistant temperature all ye
 The result is skewed towards the right which tells us that most of the temeprature values range from 65-80F confirming the consistant moderate temperature in the island all year long. For the 12 month period, the highest temperature was 85°F with a minimum of 54°F. Keep in mind that this dataset was around La Niña, which causes the temperature to fall and during El Niño cycle(reverse of La Niña i.e raises the temperature, causes rainstorms), the temperature is bound to raise by a few degrees. But not enough to make it unpleasant. 
 
 
+### Three popular vacation periods, how does the temperature differ?
 
+So by now you know what to expect, but still havnt fully decided on the dates. Lets take a look at three popular vacation dates from different months and see how the temperature fares. We will use [LA Times Holiday Period](https://www.latimes.com/travel/deals/la-tr-holiday-travel-20170622-htmlstory.html) to analyze the following three vacation week periods - 
+
+* 4th of July entire week
+* Thanksgiving week
+* Christmas Week
 
 
